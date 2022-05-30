@@ -1,0 +1,95 @@
+.heading {
+    text-align: center;
+    color: rgb(50, 255, 255);
+    background: -webkit-linear-gradient(120deg, #29c1e4, #04125f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Arial black;
+    }
+    
+    .heading2 {
+    text-align: center;
+    color: rgb(50, 255, 255);
+    background: -webkit-linear-gradient(120deg, #29c1e4, #04125f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Arial;
+    }
+    
+    .table {
+    width: 240px;
+    height: 280px;
+    padding: 10px;
+    float: left;
+    margin: 20px;
+    border: 1px whitesmoke;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    
+    .main {
+    text-align: center;
+    font-family: Arial;
+    }
+    
+    .plan {
+    border: whitesmoke;
+    float: center;
+    background-color: whitesmoke;
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    
+    .plan1 {
+    border: whitesmoke;
+    background-color: whitesmoke;
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    
+    .plan3 {
+    border: whitesmoke;
+    background-color: whitesmoke;
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    
+    .position {
+    letter-spacing: 2px;
+    line-height: 1px;
+    font-size: small;
+    color: gainsboro;
+    text-align: center;
+    }
+    
+    .position1 {
+    letter-spacing: 2px;
+    line-height: 1px;
+    font-size: small;
+    color: black;
+    text-align: center;
+    }
+    
+    .heading1 {
+    text-align: center;
+    background: -webkit-linear-gradient(120deg, #0190c9, #000f50e1);
+    }
+    
+    button:hover {
+    color: red;
+    }
+    
+    body {
+    text-align: center;
+    }
+    
+    .parent {
+    margin-left: auto;
+    margin-right: auto;
+    }

@@ -1,0 +1,11 @@
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 50px;
+    height: auto;
+  }
+
+div.gallery:hover{
+    color: 1px solid #777;
+}
